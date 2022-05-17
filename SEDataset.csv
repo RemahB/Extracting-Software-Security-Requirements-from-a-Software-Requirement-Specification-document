@@ -1,0 +1,418 @@
+﻿The product shall ensure that it can only be accessed by authorized users. 
+The product will be able to distinguish between authorized and unauthorized users in all access attempts
+Only registered realtors shall be able to access the system.
+Every user of the system shall be authenticated and authorized.
+The product shall prevent its data from incorrect data being introduced.
+Only authorized users shall have access to clinical site information.
+Program Administrators/Nursing Staff Members are the only people who shall have access to clinical site details.
+Only authorized users shall have access to students\92 personal information.
+Dr Susan Poslusny and Dr Julie Donalek are the only people who shall have access to students\92 personal information.
+Only authorized users shall have access to the portion of the system that interfaces with CampusConnect.
+Fit Criterion: Dr Susan Poslusny and Karen Sysol are the only people who shall have access to the final class section scheduling for the system that interfaces with CampusConnect.
+The system shall have basic data integrity checking to reduce the possibility of incorrect or invalid data being introduced.
+The system shall protect private information in accordance with the organization\92s information policy.
+The system shall be built such that it is as secure as possible from malicious interference.
+The system shall use the organization\92s standard virus protection software to help monitor threats to itself.
+The Disputes application shall ensure that only users with the appropriate access level are allowed to initiate dispute requests.
+Only users with Update access must be able to initiate dispute requests.
+The Disputes application shall ensure that only authorized users are allowed to logon to the application.
+All authorized users once authenticated must be able to logon to the Disputes System
+The Disputes System shall generate a User Report that details any new users that have been added and any changes to an existing user\92s access level. 
+The report will be reviewed for auditing purposes.
+All additions of new users and modifications to user\92s access shall be recorded on the User Report.
+If a user account is revoked it can only be re-instantiated by the System Administrator.
+Only the System Administrator shall be able to reset a revoked user logon account
+The Disputes application shall manipulate and view business data. 
+Users will not have direct access to data files or databases.
+All updates to data files or database must be initiated from the Disputes System.
+Only adjusters can request recycled parts audit reports. No users without an adjuster role shall request recycled parts audits.
+Only adjusters with a supervisor role can update preferred repair facility ratings. 
+Users without the supervisor role cannot access the repair facility ratings.
+Only collision estimators shall search for recycled parts. Users without the collision estimator role shall not have access to the search for recycled parts.
+Only valid data shall be entered into the system. No invalid data shall be entered into the system.
+One insurance company shall not be able to view another insurance companys claim data.
+The product shall free of computer viruses.
+The system shall prevent malicious attacks including denial of service.
+The product shall ensure that only company employees or external users with company-approved user IDs may have product access. 100% of all logons shall be by either company employees or external users with company-approved user IDs.
+Only managers are able to perform search queries for reservations by user. 
+100% of all search queries for reservations by user shall be from logons of only management logons.
+The product shall ensure that the database\92s data corresponds to the data entered by the user. 
+Each conference room reservation in the system will contain the same information as was entered by the user.
+The product shall prevent the input of malicious data. 
+The product and/or adjacent hardware/software systems\92 data shall remain 100% uncorrupted each time malicious data is input into the product.
+The product shall have the ability to receive automatic software updates as new threats emerge. 
+100% of customers will be able to receive automatic software updates transmitted to the installed product.
+The System shall maintain consistent security. 
+Any changes in user passwords and/or permissions should take affect in all parts of the System.
+The System shall granularly control access rights to all major subsystems. 
+It should be possible to assign access rights to all subsystems independently.
+All credit card information will be secured on the server and only accessible by authorized Izogn administrators. 
+Information will be encrypted in the database.
+Only registered customers can purchase streaming movies.
+A customer can only stream a movie if they purchased it and are within the 2 day viewing period.
+Only authorized personnel can access customer records in the database.
+Only administrators can activate a pre-paid card.
+Only authorized personnel can access sales information.
+The website shall prevent its data from being corrupted when incorrect data is entered in.
+The website shall protect itself from intentional abuse and notify the administrator at all occurrences.
+Data integrity scripts will be run on a weekly basis to verify the integrity of the database.
+The website shall make its user aware of its information practices before collection data from them via a Privacy Policy accessible on all pages of the website.
+The system shall notify customers of changes to its information policy.
+The system shall reveal private information only in compliance with the organization\92s information policy.
+All customer information will be stored on a secure database accessible only to authorized personnel.
+All credit card information will be encrypted in the database.
+The streaming server will have anti-virus software to prevent infection of malicious viruses.
+The product shall provide players no access to information that might reveal the identity of another player
+The product shall ensure that only supervisors can advertise empty time slots.
+The product must ensure that supervisors are allowed to access advertise empty time slots.
+The product shall ensure that only supervisors can enter a caller\92s schedule.
+The product must ensure that supervisors are allowed to access advertise empty time slots.
+The product shall ensure that only supervisors can view schedule of all callers.The product must ensure that supervisors are allowed to access advertise empty time slots.
+The product shall have security.The product shall provide authentication and authorization.
+The product shall information Security. The product shall enable privacy by encryption WS-Security and Integrity Checking.
+The product shall have audit capabilities.The product shall store messages for a minimum of one year for audit and transaction tracking purposes.
+The system shall only be accessed by authorized Corporate Community Grants (CCR) employees. Users must be authenticated using their IBM intranet user name and password.
+The WCS system shall not allow automatic logins by any user. Cookies containing WCS login information about a user will not be stored on a user\92s computer.
+Each team owner will need to use a username and password in order to be authenticated to reach the team owner\92s page
+The Commissioner will be the only authorized user per league to adjust league settings.
+Only authorized user shall access the RFS system. ONLY users that exist in the UAS system with the RFS system assigned to their role(s) shall access the RFS system and use it.
+User access should be limited to the permissions granted to their role(s) Each level in the PCG hierarchy will be assigned a role and users will be assigned to these roles. Access to functionality within RFS system is dependent on the privileges/permission assigned to the role..
+All network transactions that involve financial information or personally identifiable information shall be encrypted.
+Patrons shall log in according to the restricted computer system access policy.
+Only users who have been authorized for home access to the corporate Intranet may use the COS from non-company locations.
+System security and access levels are provided in the online system. There are varying levels of system access and functional authority. Each student’s access is limited to his/her own registration records. Only authorized system administrator(s) has access to all student registration records.
+A waiter password used for tablet login must have a bit-strength of at least 64 bits.
+A waiter password used for tablet login must be changed every three months.
+A waiter shall only be able to log into one tablet at any given instance of time.
+A waiter that attempts to log into a second tablet while already logged into another tablet shall be rejected and notified through both tablets.
+A display shall not require a user to log in.
+A surface computer shall not require a user to log in.
+A tablet shall require a user to log in using a username and password.
+System will use secured database.
+Unauthorised users can only read data without modifying anything.
+Information transmission should be securely transmitted to server without any changes in information.
+All transactions at the Flea Market require a valid user ID and password.
+Secure data transfer over the Internet could be provided using SSL encryption that will be configured by the host system administrator.
+The IP addresses where the transaction was made from will be logged.
+User passwords will be stored in the database in an encrypted format.
+The application must log the user out when it is exited.
+A correct combination of username and password is required for a user to login.
+Logout must be automatic after 1 hour of inactivity.
+Full data backups must be created daily.
+Each account must securely store all of its data.
+The system use SSL (secured socket layer) in all transactions that include any confidential customer information.
+The system must automatically log out all customers after a period of inactivity.
+The system should not leave any cookies on the customer’s computer containing the user’s password.
+The system’s back-end servers shall only be accessible to authenticated administrators.
+Sensitive data will be encrypted before being sent over insecure connections like the internet.
+Everyone (stakeholders and guests) can have access to the system and the catalogue. Every client must have secure and private access to his/her data. The and the service man can have access to every part of the system. All these accesses (except the “guest tour” access) require identification through ID and password.
+The system will develop a security system that will reduce to the minimum the possibility of corruption from systems and/or humans.
+The software system needs a robust security mechanism in place so that unauthorized users are not allowed access to parts of the system.
+Each user shall either be trusted or not trusted.
+Every user of the software is provided a unique login ID and a password which is stored in the database hashed by SHA2 algorithm.
+System use shall not cause any harm to human users.
+System will use secured database
+Normal users can just read information but they cannot edit or modify anything except their personal and some other information.
+System will have different types of users and every user has access constraints.
+Customers must have a valid login id to enter into the site.
+The data transaction between client and server must be encrypted using SSL technology.
+All the passwords that are generated or accepted must be stored in database in an encrypted form.
+To prevent attacks the system should generate random word and ask the user to enter it correctly for multiple tryings.
+All users of the system shall login using some form of unique identification.
+All login attempts shall be done so in a secure manner.
+The system shall utilize HTTPS communication to ensure data confidentiality.
+User authentication and privileges are defined outside the scope of the sytem by the Microsoft Active Directroy Server.
+Personal information security is defined outside the scope of the SDMS by the database server.
+Users shall be required to log into the system for all operations except the operations on the login page.
+The system shall use secure sockets in all transactions that include any confidential customer information.
+The system shall automatically log out all customers after a period of inactivity.
+The system shall not leave any cookies on the customer’s computer containing the user’s password.
+The system shall not leave any cookies on the customer’s computer containing any of the user’s confidential information.
+The customer’s web browser shall never display a customer’s password. It shall always be echoed with special characters representing typed characters.
+The customer’s web browser shall never display a customer’s credit card number after retrieving from the database. It shall always be shown with just the last 4 digits of the credit card number.
+The system’s back-end servers shall never display a customer’s password. The customer’s password may be reset but never shown.
+The system’s back-end databases shall be encrypted.
+The system will use a single password per user to login to the E-Store System.
+The system shall use secure socket layer (SSL) technology to ensure all payments made online and user logins are secure.
+A secure server will be required to ensure confidentiality of customer’s credit card and other details.
+The website must provide highest degree of security to the registered users. All the transactions that are made must be secured. The sensitive information passed to and from the website must be secured. Identity theft and other security related issues must be solved. Unauthorized transmission of sensitive information of the user to third party websites for reference must be avoided. On the basis of user agreement the information must be processed. All the information about the registered user must be securely stored in the central database.
+Internally to the CPN a CNG transmitting private or other critical information (i.e. to a CND) shall protect the data from unauthorised disclosure.
+Internally to the CPN  a CNG receiving private or other critical information (i.e. from a CND) should verify that the data was protected from unauthorised disclosure. 
+The CNG shall detect the end of the life of the key used for cryptographic protection of the wireless communication between the CND and the CNG.
+ A CPN-user attempting to invoke a CNG-mediated service shall be identified and authenticated by the CNG before being granted access to the service.
+The CNG shall implement an authentication failure handling policy.
+The CNG shall take action according to local authentication failure handling policy (which may include silently discarding the authentication and explicit failure notification  or in the case of a replay of credentials may include notification of the true owner of the credentials) upon detection of failure during identification  authentication and authorization.
+The CNG should detect replayed user and/or device credentials.
+When the CNG detects replayed user and/or device credentials the CNG shall stop the relevant processes.
+The CNG shall implement a privacy protection policy specifying as a minimum private and critical information.
+ When the CNG detects violation of the privacy protection policy the CNG shall discard all signalling including signalling from the NGN.
+The CNG shall implement an authorization management handling policy.
+On reception at the CNG of a message to access configuration information for update and detection of authorization failure the CNG shall reject the request and manage the failure in accordance with the CPN authorization management handling policy.
+Where a CND invokes a session at the CNG the CNG shall record the association of session-id invoking device identity and invoking user-id.
+On transmission of management information from the CNG to a CND the CNG shall append a timestamp or sequence number to the outgoing message.
+ On reception at the CNG of a message containing management information the CNG shall extract the timestamp or sequence number and verify that the message has not been replayed.
+ On reception at the CNG of a message to access or update configuration information the CNG shall allow access only if the sender is an administrator.
+ On detection of a message integrity error at the CNG the CNG shall discard the message.
+On indication received at the CNG of a resource allocation expiry the CNG shall delete all residual data associated with the invocation of the resource.
+ On receipt of a valid (i.e. authorized) request for data stored in the CNG the CNG shall return the requested data to the requesting user.
+On receipt of a valid (i.e. authorized) request for access to a CNG hosted service or application the CNG shall provide the requested service or application to the requesting user.
+On detection of any system failure or discontinuity not specifically handled by other mechanisms the CNG shall revert to a known safe state.
+The CNG shall support mechanisms to authenticate itself to the NGN for connectivity purposes.
+The CNG shall support mechanisms to authenticate itself to the NGN for service usage purposes.
+The CNG shall support mechanisms to authenticate CNDs to the NGN for service usage purposes if they are not able to fully support the related procedures in an autonomous way.
+The CNG shall support mechanisms for authentication of wireless CNDs for local connectivity. Similar mechanisms may be also implemented for non-wireless devices.
+The CNG and CPN shall support mechanisms that prevent access to the network by unauthorized users.
+The capacity of the authorized entities should depend on the security policies defined by the service providers managing the CNG.
+The CNG and the CPN shall implement mechanisms to limit the visibility of the WAN side network and resources to authorized entities.
+The diagnostic operations on the CPN by an operator shall be performed in accordance with rules protecting the users' privacy.
+CPN environment shall be protected with a stateful firewall function that may be implemented in the CNG.
+The CNG and the CPN shall be able to support parental control related functionalities limiting the use of the broadband connection on a user or time basis. Limitations on a content basis may be shared with devoted network servers.
+All applications under the GlobalPlatform shall be implemented in a hardware-neutral secure runtime environment  
+ The run time environment shall be responsible to separate secure storage for the application code and data 
+ Security domain shall ensure complete seperation of keys among the card issuers and other application providers
+" ""Security Domains shall support security services such as key handling, encryption, decryption, digital signature generation and verification for their providers' such as card issuer, applicaiton providers and controlling authority"""
+ The OPEN shall responsible to enforce security principles defined for Card Content management.
+ The GlobalPlatform API shall provides services to the application such as card verification and security services 
+ The primary goal of the GlobalPlatform is to ensure the security and integrity of the card's components for the life of the card. These components are The runtime environment The Issuer Security Domain Supplementary Security Domains The Applications.
+ To ensure card security and integrity  Resource availability  Confidentiality Authentication
+ The Card Issuer is responsible for Generating and loading the Issuer Security Domain keys
+" ""The Card Issuer is responsible for Enforcing standards and policies for Application Providers governing all aspects of Applications to be provided to the Card Issuer or operated on the Card Issuer's cards,"""
+ The Card Issuer is responsible for Cryptographically authorizing load and extradition to be performed by Application Providers.
+" ""The Application Provider is responsible for Generating the keys for its own Security Domains or obtaining Security Domain keys from a trusted third party,"""
+ The Application Provider is responsible for Working with the Card Issuer to load generated keys into the Application Provider's Security Domain
+" ""The Application Provider is responsible for Providing load file data block signatures according to its own security policy for integrity and source authenticity,"""
+" ""A Controlling Authority is responsible for Generating the keys for its own Security Domain or obtaining Security Domain keys from a trusted third party,"""
+ A Controlling Authority is responsible for Working with the Card Issuer to load generated keys into the Controlling Authority's Security Domain
+" ""A Controlling Authority is responsible for Providing load file data block signatures according to its own security policy for integrity and source authenticity."""
+" ""The runtime environment is responsible for Providing an interface to all Applications that ensures that the runtime environment security mechanisms cannot be bypassed, deactivated, corrupted or otherwise circumvented,"""
+ The runtime environment is responsible for Performing secure memory management
+" ""Secure memory management shall ensure that Each application's code and data (including transient session data) as well as the runtime environment itself and its data (including transient session data) is protected from unauthorized access from within the card,"""
+" ""Secure memory management shall ensure that When more than one logical channel is supported, each concurrently selected Application's code and data (including transient session data) as well as the runtime environment itself and its data (including transient session data) is protected from unauthorized access from within the card,"""
+ Secure memory management shall ensure that The previous contents of the memory is not accessible when that memory is reused
+" ""Secure memory management shall ensure that The memory recovery process is secure and consistent in case of a loss of power or withdrawal of the card from the card reader while an operation is in progress,"""
+" ""The runtime environment is responsible for Providing communication services with off-card entities that ensures the proper transmission (according to the specific communication protocol rules) of unaltered command and response messages."""
+ Each Trusted Framework present on the card shall Check the application access rules of the inter-acting Applications according to their respective privileges
+" ""Each Trusted Framework present on the card shall Enforce the Trusted Framework security rules for inter-application communication, including the rules, defined in appendix G,"""
+ Each Trusted Framework present on the card shall Ensure that incoming messages are properly routed unaltered to their intended destinations
+" ""Each Trusted Framework present on the card shall Ensure that any response messages are properly returned unaltered (except for any cryptographic protection) to the original receiver of the incoming message."""
+" ""The OPEN shall Provide an interface to all Applications that ensures that the GlobalPlatform security mechanism cannot be bypassed, deactivated, corrupted or otherwise circumvented,"""
+ The OPEN shall Check application access rules according to the Applications' privileges
+ The OPEN shall Ensure that the Card Content changes are authorized by the Card Issuer
+ The OPEN shall Ensure that application code has been signed by the Controlling Authority represented on the card
+ The OPEN shall Ensure that application code has been signed by Application Providers represented on the card if required. 
+Security Domains enforce the security policies of their off-card Security Domain Provider.
+" ""When applicable a Security Domain shall Communicate with off-card entities in accordance with its Security Domain Provider's security policy in Pre-Issuance and Post-Issuance,"""
+ When applicable a Security Domain shall Manage on-card data securely
+" ""When applicable a Security Domain shall Provide cryptographic protection services for its own Applications during their personalization and optionally during their subsequent operation,"""
+ When applicable a Security Domain shall Verify the authorization for Card Content changes initiated by an off-card authority
+ When applicable a Security Domain shall Verify the load file data block signature when requested by the OPEN.
+ A Global Services Application shall Hold the Global Services application-related data securely
+ A Global Services Application shall Perform internal security measures as required by the service.
+ Applications should Expose only data and resources that are necessary for proper application functionality
+ Applications should Perform internal security measures required by the Application Provider
+ The back-end systems (multiple back-end systems may exist for a single card) which communicate with the cards perform the verifications and manage the off-card key databases also shall be trusted.
+" ""One of the major requirements for a GlobalPlatform card is the ability to provide a minimum level of cryptographic functionality. This cryptography is, for example, used for the generation of signatures, and is available for use by the Applications present on the card."""
+ The Issuer Security Domain shall implement one Secure Channel Protocol.
+ A Security Domain other than the Issuer Security Domain shall implement [at least] one Secure Channel Protocol.
+ A GlobalPlatform card should support symmetric cryptography such as the Data Encryption Standard (DES) algorithm.
+ A GlobalPlatform card may also support asymmetric cryptography such as the Rivest / Shamir / Adleman (RSA) algorithm.
+ When present services to encrypt and decrypt any pattern of data using these algorithms shall be available to Applications.
+" ""It is the responsibility of the Card Issuer or the Controlling Authority to set up the appropriate off-card procedures to comply with the governmental restrictions upon cryptography. Features to disable or restrict cryptography usage by Applications on a card are beyond the scope of this Specification."""
+ The Load File Data Block Hash is intended to verify the integrity of a complete Load File Data Block when loaded to a GlobalPlatform card.
+ The Load File Data Block Hash is used in the computation of The Load File Data Block Signature
+ When present during the loading of a Load File to the card each signature shall be verified by the appropriate Security  Domain. 
+ Tokens shall be verified by the appropriate Security Domain.
+ A GlobalPlatform card offers Entity authentication - in which the card or the off-card entity proves its authenticity to the other entity through a cryptographic exchange
+ A GlobalPlatform card offers Integrity and authentication - in which the receiving entity (the card or off-card entity) ensures that the data being received from the sending entity (respectively the off-card entity or card) actually came from an authenticated entity in the correct sequence and has not been altered
+ A GlobalPlatform card offers Confidentiality - in which data being transmitted from the sending entity (the off-card entity or card) to the receiving entity (respectively the card or off-card entity) is not viewable by an unauthenticated entity.
+ The life cycle models is responsible to functionality and security of Card  Executable Modules  Security Domains and Applications.
+ The OPEN shall be responsible to maintain security and administration of the card and its content
+ The off-card entity under the OP_READY state may insert Security Domain keys  in order to maintain a cryptographic key separation from the Issuer Security Domain keys
+ The SECURED state may be used to enforce the relevant security policies of the security domain and applications
+ The off-card entity under the SECURE state shall be used to ensure the availability of all keys by the issuer security domain
+Successful authentication is a prerequisite for the processing of any on-line or offline CEPS transaction
+"On-line authentication must take place between the card issuer and the CEP card for load, unload, and currency exchange transactions"
+The card issuer and the CEP card share a secret key to generate and verify MACs
+"Specification of keys and signatures used for CEPS on-line authentication is left to the issuer, however MACs passed over shared networks must be no more than 8 bytes long, binary format"
+Off-line authentication must take place between a PSAM in the POS device and the CEP card for purchase and cancel last purchase transactions
+"The card and the PSAM must use a public key algorithm for mutual authentication and session key exchange, as no permanent shared secret key may exist between the CEP card and the PSAM"
+"To load value into a slot of the CEP card securely, the load device establishes a connection between the issuer and the CEP card"
+"The card should use a unique diversified secret key, personalized into the card, to generate and authenticate transaction signatures"
+"In the case of an unlinked load, no presumption may be made as to the business relationship between the cardholder, the funds issuer, the card issuer, or the load acquirer"
+"If this is not a cash load, the funds issuer needs to verify that the funds are requested by the legitimate account owner, which is normally done by the presentation of an enciphered PIN"
+"The card issuer needs to ensure that the load acquirer is guaranteeing payment for the electronic value, and that the card is authentic"
+"The load acquirer needs to ensure that the issuer is the true owner of the card, and, in the case of an apparent failure of the load, the load acquirer needs the card presented to authenticate the failure"
+"Finally, the load acquirer and issuer need to ensure that the load cannot be completed by another entity"
+"The card generates S1 using card and load device data, and sends S1 to the load device to be forwarded to the issuer"
+The load device sends S1 in an authorization request to the issuer
+The load device also provides for verification of the identity of the cardholder (with either on-line or off-line PIN verification) and forwards verification data in the authorization request
+The issuer validates S1 to authenticate the card and the data to be used in the transaction
+The issuer sends S2 to the load acquirer in the authorization response message
+"After validating S2 and completing the transaction, the card creates S3, which is logged by the load device or the load acquirer"
+Unloads are permitted only to an account controlled by the card issuer and are performed only at a load device under the control of the card issuer
+"The cardholder must have an account relationship with the card issuer, and funds removed from the card are credited to the cardholder account only after the card issuer authenticates the card"
+"The issuer needs only to authenticate the card, and the card needs only to authenticate the issuer and that the data is the same as used by the issuer"
+"The card generates S1, using data from the card and load device, and sends S1 to the card issuer to authenticate the card and the data that is to be used in the transaction"
+"The card issuer validates S1, calculates the amount of the transaction into the new currency, and determines whether to allow the exchange to complete"
+"The card issuer generates S2, which is sent to the card to allow the card to validate the card issuerâ€™s authenticity and to ensure that the data used by the card in the transaction is the same as the card issuer intended"
+"After completing the transaction, the card creates S3, which is logged by the load device or the load acquirer or both"
+"In the case of an unsuccessful completion, exception processing outlined in the On-line Exception Processing section is performed"
+"During a purchase transaction, the CEP card must ensure that it is dealing with an authentic POS device, and it must generate a signature to allow the card issuer to verify the integrity of the transaction"
+"The POS device must ensure that it is dealing with an authentic card, and guarantee integrity of transactions and batches to the merchant acquirer"
+"For multiple step transactions, the CEP card can, at the card issuerâ€™s option, reauthenticate the PSAM at each step (mutual authentication), or it can rely on the authentication that was performed during the first step (dual authentication)"
+The PSAM may authenticate the CEP card during each step
+"In the case of a reversal, the CEP card must re-authenticate the PSAM"
+Intermediate card validation by the POS device is optional for both the CEP card and the PSAM
+"The card must ensure that the transaction is performed by the same POS device as was used for the purchase being canceled, and that the amount of the cancellation is the same as the amount of the purchase, or, in the case of an incremental purchase, the same as the amount of the last step"
+"During a Cancel Last Purchase transaction, the CEP card is authenticated by the PSAM in the POS device"
+"The PSAM authenticates that the purchase transaction being canceled was performed by the PSAM, and that the transaction being canceled is part of the active batch"
+The card issuer and the merchant acquirer also authenticate the transaction when they receive it
+Transmissions between host systems should be protected by MACs based on unique keys that are shared by the nodes involved
+"The transaction signatures ensure end to end integrity of transmitted data for load, unload, and currency exchange transactionsa"
+Every complete POS transaction is given a MAC by the PSAM and kept in the POS device memory until collected by the merchant acquirer
+Each POS transaction is part of a batch of transactions that must be collected at the same time
+These totals are used by the merchant acquirer to ensure the integrity of the batch
+"The count and amount of the transactions in the batch must be protected by the S4 MAC,  This information is not part of the card issuerâ€™s verification process"
+Scheme providers must assign unique identifying numbers to merchant acquirers who provide PSAMs
+These merchant acquirers must then assign unique identifiers to PSAMs
+"As a result, each PSAM must have a unique ID composed of the scheme identifier, a merchant acquirer identifier, and the PSAM identifier"
+"Each PSAM must maintain a transaction count, The unique PSAM ID and the transaction count are used during a conversation with a CEP card. The transaction count must not be reset during the life of the PSAM"
+"Contain the CA public RSA key, the PSAMâ€™s private RSA key and optionally the certificates that the POS device uses to perform mutual authentication with the CEP card"
+"Perform the calculation required to generate a signature using the PSAMâ€™s private RSA key, to allow the CEP card to validate the PSAM"
+Contain one or more MAC keys used by the merchant acquirer to ensure the integrity of the data received from the POS device
+Contain the latest transaction count and amount of batches that have not been deleted from the POS device by the merchant or merchant acquirer
+Contain the details of a transaction between the initialize command for that transaction and the initialize command for the next transaction
+"Be the entity that maintains control over the flow of a transaction, ensuring that all security is enforced"
+Perform the verification of signatures and certificates during a purchase and cancel last purchase transaction
+Collect and validate all transactions and provide acknowledgments to the POS device or to the merchant
+Ensure that each batch of transactions is cleared and settled once and only once
+Send transactions to card issuers or their processors in a standard format defined in agreement with the scheme provider
+Participate in financial transactions with card issuers and their processors at the time that the transaction is sent. 
+Funds move when the transaction moves
+"Ensure that CA public keys, aggregation parameters, blocking lists and issuer certificate revocation lists from the scheme providers are sent to the POS devices"
+"Share one or more MAC keys with connecting processors, create a MAC on each transmission sent to another processor, and verify the MAC on each transmission received from another processor"
+Send transactions to other processors in a standard format defined in agreement with the scheme provider
+Participate in a financial transaction with the connecting processors at the time that the transaction is sent or received. Funds move when the transaction moves
+"If a supported scheme provider has a dispute resolution process, participate in that dispute resolution process with connecting processors to resolve any issues related to invalid transactions. These resolution processes should include a mechanism for repayment of funds associated with invalid transactions"
+"The scheme provider must ensure that the entire process between merchants, merchant acquirers, card issuers, and processors is auditable and reconcilable"
+"If errors in the card issuer MAC are discovered by the card issuer during its processing of the transactions, a dispute mechanism, established by the scheme provider, may be used to have money refunded"
+"If a scheme provider establishes a central error repository, all transactions for the scheme with MAC errors must be sent to that central error repository whether or not they are submitted to the dispute process"
+"Payment for a transaction is only required when a detail transaction is submitted for payment, A merchant acquirer may choose to pay the merchant using the batch total"
+The timing of payment to the merchant must be established between the merchant and the merchant acquirer
+"A purchase transaction may be reversed, prior to the removal of the CEP card from the POS device, by sending a purchase reversal command to the CEP card, The CEP card must authenticate the PSAM using certificates previously exchanged"
+"Only the last increment of an incremental purchase may be reversed. A reversal of a purchase transaction may only occur if: the CEP card has not been removed from the POS device, and the S5 for the transaction to be reversed has not been generated by the PSAM"
+The amount to be reversed is the amount of the last step of the transaction. The reversal command sent to the CEP card contains a S2 MAC computed by the PSAM
+"The PSAM in the POS device generates a merchant acquirer S5 MAC for the transaction, computes a new S4 MAC on the updated batch total count and amount, and logs the transaction"
+"The transaction and MACs are kept in a data store associated with the POS device until the merchant acquirer collects them. The logged data must include the total amount of the purchase, the purchase amount that was reversed, and an indication that the transaction was reversed"
+"The CEP card authenticates the PSAM using the certificates previously received and the S2, The CEP card increments the value of the purse and logs the transaction"
+The CEP card sends a response to the reversal command to the POS device. The reversal is considered to be successful even in the event of a negative response or no response from the CEP card
+"This transaction is only valid if the transaction to be canceled is the last transaction completed by the CEP card. Additionally, the transaction to be canceled must not have been collected and must be in an active batch. Only the last step of an incremental purchase may be canceled"
+"After the CEP card is inserted in the POS device, the POS device initiates the cancel last purchase transaction"
+"If the POS device supports multiple applications or multiple transaction types, an interaction between the terminal and consumer or sales agent determines the CEP application and the function to be performed (cancel last purchase transaction)"
+"The CEP card verifies that the PSAM is the PSAM used in the original transaction, computes a S1 MAC using the same DES session key that was used for the purchase transaction being cancelled, and responds to the POS device with the S1 and the identification of the last transaction. If the purchase transaction to be canceled has been canceled or is not part of the active batch, the command is not allowed"
+The PSAM either retrieves or re-derives the DES session key used for the purchase transaction being cancelled. The POS device authenticates the CEP card using this key and the S1 MAC
+The PSAM in the POS device generates a merchant acquirer S5 MAC for the transaction and a new S4 MAC for the batch total count and amount and logs the transaction. The amount of the canceled last purchase transaction is subtracted from the header amount. The transaction is kept in a data store associated with the POS device until the merchant acquirer collects it
+"A credit command, which contains the S2 MAC computed by the PSAM using the session key, is sent to the CEP card"
+The CEP card authenticates the terminal using the S2 MAC and the session key from the purchase transaction being cancelled. The CEP card increments the value of the purse and logs the transaction. The CEP card verifies that the cancellation amount is equal to the amount of the last step of the purchase transaction
+A transaction collection process must exist. Data being transmitted from the POS devices must be transmitted in a manner that ensures integrity of the data
+"The merchant acquirer must acknowledge the receipt of the batch to either the POS device or the merchant. The timing of the acknowledgment will vary based on the collection process. After a batch has been acknowledged by the merchant acquirer, it may be deleted from the POS device"
+"The POS device closes the batch when the batch is collected. Collection may be initiated by the POS device, the merchant, or by the merchant acquirer"
+The batch is sent to the merchant acquirer. Delivery may involve transmission to multiple intermediate locations or it may be direct to the merchant acquirer
+The merchant acquirer validates the batch to ensure that it has been transmitted correctly and enters it into the log
+"Only certain POS devices, which have been installed at merchants approved for aggregation by both the scheme provider and merchant acquirer, must be permitted to aggregate transactions"
+POS devices must only aggregate transactions from CEP cards when the CEP card allows aggregation
+"The PSAM must only be permitted to aggregate transactions for a scheme with which the merchant has an aggregation agreement. The AID of the card application must be used to determine the scheme. For each scheme that allows this merchant to perform aggregation, the PSAM must have a monetary amount above which it is not permitted to aggregate"
+"If the business rules allow this transaction is to be aggregated, the PSAM must determine if it has an aggregation record for the card issuer. If the PSAM does not have an aggregation record for the card issuer, a new aggregation record for the card issuer must be created"
+"If the PSAM has insufficient space to create a new aggregation record for the card issuer, the transaction must not be aggregated"
+"If the transaction is to be aggregated, the amount of the transaction must be added to the aggregation record for the card issuer"
+The count of aggregated transactions in the aggregation record must be increased by 1
+The PSAM must create a MAC on the updated aggregation record. Aggregation records by card issuer must be stored in the PSAM. They may also be stored in the POS device as well
+The PSAM must increase the total count and amount of the active batch by the amount of the aggregated transaction
+The aggregated totals by card issuer must be transmitted to the merchant acquirer at the same time and manner as the non-aggregated detail transactions in the batch
+"Each POS transaction completed at the POS device is given a S5 MAC by the PSAM, which is used by the merchant acquirer to validate that the transactions were made at a POS device with a valid PSAM. The batch total count and amount must be protected by the S4 MAC, which must also be validated by the merchant acquirer"
+"The merchant acquirer validates the PSAMâ€™s MACs prior to accepting the POS transactions for payment. In addition, selected data elements are validated to ensure correct processing by the POS device and its PSAM"
+"Each purchase transaction is signed by the CEP card with a S6 MAC, which is used by the card issuer to validate that the transaction was made with a legitimate, not counterfeit, CEP card. The card issuer validates the CEP cardâ€™s MAC"
+"Payment decisions are based on signature validations, scheme provider rules, and merchant and merchant acquirer agreements"
+"Errors may be introduced by a malfunctioning PSAM or POS device software, by key management problems, or through the transmission process, as well as through fraudulent activities of another entity. When a batch or POS transaction fails validation, the merchant acquirer or card issuer must follow exception procedures that affect payment to the merchants and payment from the card issuer. The batch must be analyzed to determine clearable transactions out of a corrupted batch"
+A transaction that fails a merchant acquirer validation cannot be forwarded for payment unless resolved
+"After investigation, if the merchant acquirer decides, based on scheme rules, to accept the transactions, a method must exist to settle them and forward them to the card issuer"
+"Procedures for investigation, resubmission, and manual adjustment may be established between the merchant acquirer and its merchants for batches containing rejected transactions"
+"A transaction that passes merchant acquirer validations and is forwarded to the card issuer is paid for by the card issuer. If the transaction does not pass card issuer validations, the card issuer may follow the scheme providerâ€™s dispute procedures"
+Purchase transactions that have an invalid MAC are forwarded to the scheme provider for analysis if the scheme provider has established a central error repository
+"Merchant acquirers may institute pay on header arrangements for providing payment to their merchants. In this arrangement, the merchant acquirer relies on the header validation to determine payment to the merchant if transaction detail is missing due to some problem. The specific rules covering pay on header arrangements are outside the scope of this document"
+"Pay on detail is the default payment arrangement for merchant acquirers to provide payment to their merchants. In this arrangement, the merchant acquirer relies on the POS transaction S5 MAC to determine acceptance. Merchants are paid only for valid POS transactions"
+Valid batch total counts and amounts are required in any payment arrangement. Batches where the totals have errors that cannot be resolved through investigation must be rejected
+"All POS transactions, except for duplicates, are forwarded to the card issuer. The following transactions are forwarded to the card issuer for payment and for CEP card history information: Common Electronic Purse Specifications - Functional Requirements - POS transactions that were accepted by the merchant acquirer. - POS transactions that have resolved errors are additionally flagged with an error code indicating the type of validation failure"
+The card issuer pays based on the total amount of transactions forwarded by the merchant acquirer for payment
+POS transactions that were rejected for payment by the merchant acquirer are flagged with an error code indicating the type of validation failure and are forwarded to the card issuer for CEP card history information only
+All load transactions are on-line transactions. Authorization of funds for load transactions must require a form of cardholder verification. The load device must support on-line encrypted PIN or off-line PIN verification
+Off-line PIN verification must include both encrypted and unencrypted PIN
+The card verification method indicator (CVMI) in the CEP card must specify support of online PIN verification and at least one method of off-line PIN verification (encrypted or unencrypted)
+"Where it is necessary for a CEPS system component to distinguish between on-line and off-line cardholder PIN verification, a flag must be set in the transaction"
+"Since these transactions are on-line to the issuer, the issuer has the opportunity to lock the card or the application. These transactions are not available to a card that has already been locked"
+Currency exchange rates for the currency exchange transaction must be established by the card issuer
+Currency exchange rates for unload transactions must be established by the card issuer when the currency being unloaded and the destination cardholder account are in different currencies
+"Currency exchange rates for an unlinked load transaction must be established according the rules of the network or networks processing the transaction. However, for linked load transactions, the currency exchange rates must be established by the card issuer"
+Card issuers must inform their cardholders as to which currencies they support in electronic purses
+Load acquirers must determine the currencies that they must support for load transaction
+Load - Assume the transaction completed successfully. Funds are debited from the cardholder account and credited to the funds pool. The card issuer liability is increased
+Unload - Assume the transaction did not complete successfully. Funds are not withdrawn from the funds pool and liabilities are not altered
+Currency Exchange - Assume the transaction completed successfully. The funds pool and liability positions are adjusted to reflect a decrease in the â€œfromâ€ currency and an increase in the â€œtoâ€ currency
+The load acquirer must notify the card issuer of all suspect transactions
+"The CEP application must contain data that indicates the presence of a linked financial institution. If a linked financial institution is established for the CEP application, then linked loads must be allowed and data in the application must indicate whether linked loads are supported"
+"Flexibility is required to accommodate the variety of environments where unlinked loads may be implemented. As a result, the design specification must not preclude dual-leg transactions** from taking place either sequentially or in parallel. The design of a given implementation will vary depending on the device, host, and network capabilities"
+"Unload and currency exchange transactions are optional for CEP card issuers. The CEP card must indicate whether the card issuer supports these transactions. However, if a card issuer issues multi-currency capable cards, it must provide its cardholder with a facility to remove any remaining value. As a result, if a card issuer supports loading of multiple currencies onto a card, then it must support the unload or currency exchange transaction or both"
+"For unload transactions, the load acquirer and card issuer must be the same financial institution. Load devices or load acquirers must be able to identify their own institutionâ€™s CEP cards"
+The card issuer must establish its policies for assigning and adjusting slot maximum balances. These policies may require the card issuer to maintain a card database
+"Currency exchange rate fluctuations may increase the card issuers liability. The card issuer must be able to adjust maximum balances to bring them in line with their policies. The card issuer may update the maximum balances as part of a load, a partial unload, and a currency exchange transaction. On a currency exchange transaction, only the â€œtoâ€ currency maximum balance may be updated"
+"The maximum balance for a currency must never be less than the existing balance for that currency plus the amount to be loaded, in case of a load transaction"
+"A CEP card may contain currencies that the load acquirer does not support. As a result, load devices must use the alphabetic issuer-supplied currency code and currency exponent from the CEP slot(s) to display the source amounts for the currency conversion transaction"
+Card issuers must provide an alphabetic currency code in each message that establishes a new currency. This alphabetic currency code and the currency exponent will be used by the load device to display currency balances. This allows the cardholder to identify the currency being displayed
+"Script messages that conform to EMV specifications may be included as part of load, unload and currency exchange messages from the card issuer to the CEP card. An update key must be used when card parameters are changed. Script messages may be sent to the CEP card either before or after the credit for load, debit of unload and currency exchange commands"
+All on-line messages must have the ability to include card issuer discretionary data from the CEP card
+The card issuer must notify the cardholder if the assessment of service fees by the card issuer during the currency exchange transaction may result in a balance of zero after the transaction has completed
+The card issuer must have the ability to deactivate a CEP application in the response to a load or currency exchange transaction
+"The CEP card may support multiple currencies. Each currency occupies a â€œslotâ€ within the CEP. The slots are defined by the currency supported. The currency for an individual slot is determined during load or currency exchange. Currency exchange could apply to a single slot, and then only for the total balance"
+"It is a card issuerâ€™s decision to determine the currencies that are allowed to occupy slots in the CEP card. This decision is made by the card issuer during the load or currency exchange transaction, by approving or rejecting the request to authorize the transaction"
+A single currency cannot occupy more than one slot. The CEP card must not permit a slot to be assigned a currency if another slot in the CEP card has already been assigned to that currency
+"The CEP card limits each slot to a maximum balance. The maximum balance for a slot is established when a currency is assigned to the slot, and is determined externally by the card issuer or by CEP card data which indicates a maximum balance in a reference currency. There is no requirement that all slot maximums have the same relative value, and there is no requirement for the card to maintain a maximum total value"
+"The card must not allow a slot to exceed the maximum balance, and must reject any command that would raise the current balance above the maximum"
+Only one version of the CA public key is required in the card. This requires that the PSAMs with which the CEP card exchanges cryptograms must be capable of generating and validating cryptograms using the relevant keys from all current cards
+"Two-way, or mutual, authentication, where the card authenticates the terminal and the terminal authenticates the card for each transaction, must be performed for off-line transactions"
+"The electronic purse product must use dynamic data authentication at the following points: 1. Load 2. Unload 3. Currency Exchange 4. Purchase, Purchase Reversal 5. Incremental Purchase 6. Cancel Last Purchase 7. Personalization 8. On-line Updates to the Application"
+"For increased security and convenience, asymmetric cryptography must be used as the authentication security for off-line transactions"
+"The card must authenticate the terminal at the point of sale, ensuring that it is genuine and valid, and use a two-way authentication process"
+"The terminal must authenticate the card and the transaction at the point of sale, ensuring that they are genuine and valid"
+The terminal must participate in a two-way authentication process with the card
+"For cancel last purchase transactions, the terminal must validate the card and sign the cancellation"
+The terminal must have the capability to accept a completion code from the card
+The terminal must secure transactions by retaining the cardâ€™s symmetric MACing key signature as part of the transaction
+The terminal must generate a symmetric MACing key signature and send it to the merchant acquirer
+"Incremental purchase transactions must use two-way authentication for the initial session authentication, and at least one-way, with the terminal authenticating the card, for the remaining increments or some of the remaining increments"
+Load and unload functions must be authenticated using end-to-end security between the card and the card issuer
+The issuer host must authenticate the card upon the load/unload request
+The card must authenticate the issuer host upon the response to the request
+A proof must be sent to the load acquirer that a load or unload occurred to avoid repudiation
+"The management of keys must be accomplished in a secure, certified environment"
+"There may be multiple certification authorities that manage keys for the system, including the possibility of one overall highest level certification authority (perhaps on an international level), and domestic certification authorities for each country or region"
+The system must support a fraud detection and reporting capability sufficient enough to aid in the detection of counterfeit and fraud
+Fault handling and exception processing capabilities must be robust enough to ensure transaction integrity and to facilitate the isolation of unrecoverable activity
+"The system must protect the integrity of key transaction data including transaction identification, currency code and amount. If tampering is suspected, the system must cause the transaction to fail"
+"The application must have an expiration date which is checked by the device when the card is either loaded, unloaded, or used for currency exchange, purchase, or cancel last purchase transactions"
+Expired cards must not be used for loading electronic value
+"The time period during which a cardholder can unload electronic value, perform a purchase or a currency exchange from an expired card may be determined by each issuer"
+"Consumers must be able to load electronic value to their cards at any participating load device, regardless of the location, provided that the currency that is requested is supported by the acquirer and the card issuer"
+"Funds issuers must accept funds authorization requests, regardless of the load currency type, as permitted"
+"Home, or venue-based, loading must be from an account located at a financial institution"
+The source of funds for a load may be independent from the issuer of the electronic purse card
+Load devices that are available to the general public should support multiple sources of funding and support both linked and unlinked loads
+Authorizations for load transactions require a form of cardholder authentication for funds requests
+The load device must support on-line PIN encryption or off-line PIN verification
+The load device which supports only off-line PIN verification must support both the off-line PIN encryption method and the off-line PIN plain text verification method as defined in EMV
+"Card capture, where the card is pulled into the interior of a load device so that it may not be retrieved by the cardholder, may be supported at the issuerâ€™s option and if the device is capable"
+The load acquirer must keep records by card number of all loads that take place at its load devices
+Cards should be unloaded to an account which is resident at the card issuerâ€™s financial institution. (Unlinked unloads are not precluded but are out of the scope of CEPS.)
+"Unloads to cash (redemptions) are only permitted to resolve customer service issues, and must be performed at the issuerâ€™s location"
+"Unload transactions do not require cardholder authentication. (However, an acquirerâ€™s devices may be configured such that authentication is required for access.)"
+The architecture for the electronic purse should not preclude the eventual deployment of a variety of devices to meet the needs of many card acceptance environments. Unload must not be precluded from being supported on any or all of these devices at the option of the acquirer
+The scheme provider must have a processing function to perform the following: Distributing information required for security or compliance with the scheme rules and regulations
